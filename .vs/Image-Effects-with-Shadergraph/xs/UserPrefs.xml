@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{9D8A7FE0-683C-A362-7EB3-A7BC971E7368}|">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Image-Effects-with-Shadergraph" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Shaders" expanded="True">
+                <Node name="SobelFilter.shader" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="91879483-568e-47fd-999e-3bfe6f898678" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
